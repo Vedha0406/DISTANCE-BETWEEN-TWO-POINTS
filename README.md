@@ -15,6 +15,7 @@ Using the print function display the distance between the two poitns
 End the program
 ### PROGRAM:
 Developed by:Vedhashree.G
+
 Register No:212223240171
 ---
 import math 
@@ -26,6 +27,7 @@ l2 = [10,6]
 d = math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 
 print("{:.2f}".format(d))
+
 ---
 
 ### OUTPUT:
