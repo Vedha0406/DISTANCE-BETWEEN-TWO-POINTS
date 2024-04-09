@@ -14,8 +14,22 @@ Using the print function display the distance between the two poitns
 ### Step 5: 
 End the program
 ### PROGRAM:
+Developed by:Vedhashree.G
+Register No:212223240171
+---
+import math 
+
+l1 = [4,2]
+
+l2 = [10,6]
+
+d = math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
+
+print("{:.2f}".format(d))
+---
 
 ### OUTPUT:
+![alt text](image-1.png)
 
 ### RESULT:
 Thus the distance of the two points is successfully executed and displayed.
